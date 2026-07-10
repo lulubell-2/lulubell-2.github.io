@@ -1,25 +1,43 @@
+## Journal Articles
+
+<table>
+<tr>
+<td width="28%">
+
+<img src="/images/publications/eco-driving.png" width="250">
+
+</td>
+
+<td width="72%">
+
+### Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study
+
+**Lu Chen**, Jihun Han, Rongyao Wang, Tyler Ard, Dominik Karbowski, Yunyi Jia, and Ardalan Vahidi
+
+*IEEE Control Systems Letters, 2026*
+
+[📄 Paper](https://ieeexplore.ieee.org/document/11578071) &nbsp;
+
+</td>
+</tr>
+</table>
+
 ---
-title: "Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study"
-collection: publications
-category: manuscripts
-permalink: /publication/optimal-eco-driving-control-electric-vehicles
-excerpt: "An optimal eco-driving control framework for electric vehicles, including energy savings analysis and experimental validation."
-date: 2026/6/24
-venue: " IEEE Control Systems Letters"
-paperurl: "https://ieeexplore.ieee.org/document/11578071"
----
 
-## Abstract
+<table>
+<tr>
+<td width="28%">
 
-Energy efficient cruise control has been well studied for combustion engine vehicles. We extend these results to electric vehicles accounting for their regenerative capability. We employ Pontryagin’s Minimum Principle (PMP) theory, which solves the energy efficient driving problem as a boundary value problem (BVP) to generate near-optimal acceleration and braking control sequences. The algorithm was tested on a Ford Mustang Mach-E in straight-line test track experiments designed to emulate daily human driving tasks. We measured approximately 10% energy savings relative to human drivers who drove the same vehicle with the same travel time and distance.
+<img src="/images/paper1.png" width="250">
 
-## Resources
+</td>
 
-- **IEEE Xplore:** https://ieeexplore.ieee.org/document/11578071
-- 
-## Framework
-<p align="center">
-  <img src="/images/publications/paper1.png" width="600">
-</p>
+<td width="72%">
 
-*Figure 1. Overview of the proposed eco-driving control framework.*
+### Another Paper
+
+...
+
+</td>
+</tr>
+</table>
