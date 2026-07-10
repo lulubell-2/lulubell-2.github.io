@@ -13,7 +13,7 @@ Before joining Clemson, I earned my B.S. in Mechanical Engineering from the Univ
 
 Outside of research, I enjoy painting, traveling, playing tennis, playing the violin, and exploring new restaurants.
 
+## Here is a question
 
-### Here is the question
-
-![Question](/images/question_picutre.png)
+**How can we minimize this energy consumption?**
+![Editing a Markdown file for a talk](/images/question_picutre.png)
