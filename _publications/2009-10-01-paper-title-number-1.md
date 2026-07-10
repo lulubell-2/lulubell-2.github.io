@@ -4,7 +4,7 @@
 <tr>
 <td width="28%">
 
-<img src="/images/publications/eco-driving.png" width="250">
+<img src="/images/paper1.png" width="250">
 
 </td>
 
@@ -28,7 +28,6 @@
 <tr>
 <td width="28%">
 
-<img src="/images/paper1.png" width="250">
 
 </td>
 
