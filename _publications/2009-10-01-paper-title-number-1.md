@@ -19,7 +19,7 @@ Energy efficient cruise control has been well studied for combustion engine vehi
 - 
 ## Framework
 <p align="center">
-  <img src="/images/publications/eco_driving_framework.png" width="600">
+  <img src="/images/publications/paper1.png" width="600">
 </p>
 
 *Figure 1. Overview of the proposed eco-driving control framework.*
