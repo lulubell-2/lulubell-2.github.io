@@ -14,5 +14,6 @@ Before joining Clemson, I earned my B.S. in Mechanical Engineering from the Univ
 Outside of research, I enjoy painting, traveling, playing tennis, playing the violin, and exploring new restaurants.
 
 
+### Here is the question
 
-<img src="/images/question_picutre.png" alt="Question" width="500">
+![Question](/images/question_picutre.png)
