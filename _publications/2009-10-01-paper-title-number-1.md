@@ -33,10 +33,38 @@
 
 <td width="72%">
 
-### Another Paper
+## Conference Papers
 
-...
+<table>
+<tr>
+<td width="28%">
+
+<img src="/images/paper1.png" width="250">
+
+</td>
+
+<td width="72%">
+
+### Think Fast: Real-Time Kinodynamic Belief-Space Planning for Projectile Interception
+
+Gabriel Olin, **Lu Chen**, Nayesha Gandotra, Maxim Likhachev, Howie Choset
+
+*IEEE International Conference on Robotics and Automation (ICRA), 2026*
+
+[📄 Paper](https://arxiv.org/abs/2512.01108) &nbsp;
 
 </td>
 </tr>
 </table>
+
+---
+
+<table>
+<tr>
+<td width="28%">
+
+
+</td>
+
+<td width="72%">
+
