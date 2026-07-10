@@ -1,14 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/optimal-eco-driving-control-electric-vehicles
+excerpt: "An optimal eco-driving control framework for electric vehicles, including energy savings analysis and experimental validation."
+date: 2026/6/24
+venue: " IEEE Control Systems Letters"
+paperurl: "https://ieeexplore.ieee.org/document/11578071"
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+## Abstract
+
+Energy efficient cruise control has been well studied for combustion engine vehicles. We extend these results to electric vehicles accounting for their regenerative capability. We employ Pontryagin’s Minimum Principle (PMP) theory, which solves the energy efficient driving problem as a boundary value problem (BVP) to generate near-optimal acceleration and braking control sequences. The algorithm was tested on a Ford Mustang Mach-E in straight-line test track experiments designed to emulate daily human driving tasks. We measured approximately 10% energy savings relative to human drivers who drove the same vehicle with the same travel time and distance.
+
+## Resources
+
+- **IEEE Xplore:** https://ieeexplore.ieee.org/document/11578071
+- 
+## Framework
+<p align="center">
+  <img src="/images/publications/eco_driving_framework.png" width="600">
+</p>
+
+*Figure 1. Overview of the proposed eco-driving control framework.*
