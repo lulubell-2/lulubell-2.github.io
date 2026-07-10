@@ -15,4 +15,4 @@ Outside of research, I enjoy painting, traveling, playing tennis, playing the vi
 
 
 
-![Editing a Markdown file for a talk](/images/question_picutre.png)
+<img src="/images/question_picutre.png" alt="Question" width="500">
