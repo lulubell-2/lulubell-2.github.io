@@ -46,3 +46,30 @@ body {
 .page__content {
   padding-bottom: 20vh !important;
 }
+
+/* Bigger name / bio area */
+.sidebar .author__content {
+  font-size: 1.1rem !important;
+}
+
+.sidebar .author__name {
+  font-size: 1.6rem !important;
+  line-height: 1.2 !important;
+}
+
+.sidebar .author__bio,
+.sidebar .author__pronouns,
+.sidebar .author__job,
+.sidebar .author__location,
+.sidebar .author__employer {
+  font-size: 1rem !important;
+}
+
+/* Smaller social links area */
+.sidebar .author__urls {
+  font-size: 0.95rem !important;
+}
+
+.sidebar .author__urls a {
+  font-size: inherit !important;
+}
