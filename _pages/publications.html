@@ -5,32 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Journal Articles</h2>
 
-{% include base_path %}
+<table>
+  <tr>
+    <td width="28%">
+      <img src="/images/paper1.png" width="250">
+    </td>
+    <td width="72%">
+      <h3>Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study</h3>
+      <p><strong>Lu Chen</strong>, Jihun Han, Rongyao Wang, Tyler Ard, Dominik Karbowski, Yunyi Jia, and Ardalan Vahidi</p>
+      <p><em>IEEE Control Systems Letters, 2026</em></p>
+      <p><a href="https://ieeexplore.ieee.org/document/11578071">📄 Paper</a></p>
+    </td>
+  </tr>
+</table>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<hr>
 
+<h2>Conference Papers</h2>
+
+<table>
+  <tr>
+    <td width="28%">
+      <img src="/images/paper2.png" width="250">
+    </td>
+    <td width="72%">
+      <h3>Think Fast: Real-Time Kinodynamic Belief-Space Planning for Projectile Interception</h3>
+      <p>Gabriel Olin, <strong>Lu Chen</strong>, Nayesha Gandotra, Maxim Likhachev, Howie Choset</p>
+      <p><em>IEEE International Conference on Robotics and Automation (ICRA), 2026</em></p>
+      <p><a href="https://arxiv.org/abs/2512.01108">📄 Paper</a></p>
+    </td>
+  </tr>
+</table>
 
 
